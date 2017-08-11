@@ -1,0 +1,11 @@
+{
+    "name": "update-count-aggregates",
+    "preferGlobal": true,
+    "version": "0.0.1",
+    "author": "Adam Caron <adam.caron@gaia.com>",
+    "description": "POC hooking up Node Script with PipelineDB",
+    "license": "MIT",
+    "dependencies": {
+        "pg": "^7.1.0"
+    }
+}
